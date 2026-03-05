@@ -22,7 +22,7 @@ export default function Hero() {
                 Hi, I'm <strong>Harsh</strong> —a passionate developer who loves building clean, responsive, and user-friendly digital experiences. I enjoy turning ideas into functional designs and solving real-world problems with code. Explore my portfolio to learn more about my work!
             </p>
 
-            <a href="Harsh Mishra.pdf" download class="resume-btn">
+            <a href="Harsh_Mishra Resume..pdf" download class="resume-btn">
                 <i class="fa-solid fa-file"></i> Download Resume
             </a>
         </div>
